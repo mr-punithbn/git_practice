@@ -7,5 +7,5 @@ func two(){
 }
 
 func three(){
-    
+    test
 }

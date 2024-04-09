@@ -9,3 +9,7 @@ func two(){
 func three(){
     test
 }
+
+func four(){
+    test
+}
